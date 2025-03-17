@@ -29,20 +29,27 @@ Technologies Used
 Installation and Setup
 
 1. Clone the Repository
+   
 --git clone https://github.com/YOUR_USERNAME/ai-resume-analyzer.git
+
 --cd ai-resume-analyzer
 
 2. Create a Virtual Environment (Optional but Recommended)
+
 --python -m venv venv
+
 --source venv/bin/activate   # On Windows: venv\Scripts\activate
 
 3. Install Dependencies
+
 --pip install -r requirements.txt
 
 4. Download spaCy Language Model
+
 --python -m spacy download en_core_web_sm
 
 5. Run the Application
+
 --python -m streamlit run app.py
 
 License
