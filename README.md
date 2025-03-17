@@ -53,10 +53,13 @@ Installation and Setup
 --python -m streamlit run app.py
 
 License
+
 This project is licensed under the MIT License.
 
 Contributing
+
 Contributions are welcome. Please create a pull request with any improvements.
 
 Contact
+
 For any inquiries, reach out via GitHub Issues.
