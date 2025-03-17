@@ -15,6 +15,7 @@ Features
 ----->User-friendly interface built with Streamlit
 
 Technologies Used
+
 ----->Python
 
 ----->Streamlit
@@ -24,6 +25,8 @@ Technologies Used
 ----->Machine Learning (Scikit-learn, TF-IDF)
 
 ----->PDF and DOCX processing (pdfplumber, docx2txt)
+
+Installation and Setup
 
 1. Clone the Repository
 --git clone https://github.com/YOUR_USERNAME/ai-resume-analyzer.git
