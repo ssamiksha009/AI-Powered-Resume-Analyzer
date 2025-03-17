@@ -3,17 +3,26 @@ Overview
 The AI-Powered Resume Analyzer is a web application that analyzes resumes and compares them with job descriptions to identify missing skills and suggest improvements. It utilizes Natural Language Processing (NLP) techniques such as TF-IDF and keyword extraction to provide relevant insights.
 
 Features
+
 ----->Extracts text from PDF and DOCX resumes
+
 ----->Analyzes resumes using TF-IDF and NLP techniques
+
 ----->Identifies missing skills based on a given job description
+
 ----->Provides skill improvement recommendations
+
 ----->User-friendly interface built with Streamlit
 
 Technologies Used
 ----->Python
+
 ----->Streamlit
+
 ----->Natural Language Processing (spaCy, YAKE)
+
 ----->Machine Learning (Scikit-learn, TF-IDF)
+
 ----->PDF and DOCX processing (pdfplumber, docx2txt)
 
 1. Clone the Repository
