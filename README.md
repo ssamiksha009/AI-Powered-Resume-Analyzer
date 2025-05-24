@@ -1,6 +1,6 @@
 AI-Powered Resume Analyzer
 
-Overview
+## Overview
 
 The AI-Powered Resume Analyzer is a web application that analyzes resumes and compares them with job descriptions to identify missing skills and suggest improvements. It utilizes Natural Language Processing (NLP) techniques such as TF-IDF and keyword extraction to provide relevant insights.
 
