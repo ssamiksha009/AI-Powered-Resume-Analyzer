@@ -20,8 +20,6 @@ Technologies Used
 
 ----->Python
 
------>Streamlit
-
 ----->Natural Language Processing (spaCy, YAKE)
 
 ----->Machine Learning (Scikit-learn, TF-IDF)
